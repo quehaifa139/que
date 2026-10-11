@@ -1,4 +1,4 @@
-# AI Robot 智能客服服务（FastAPI + LangChain RAG + CrewAI 多 Agent）
+# 基于 RAG 与工具调用的智能客服系统（FastAPI + LangChain RAG + CrewAI 多 Agent）
 
 一个开箱即用的**完整智能客服服务**：基于 **FastAPI + LangChain RAG + CrewAI 多 Agent** 构建，
 提供意图识别路由、知识库问答、多智能体协作、SSE 流式对话等核心客服能力，并内置
